@@ -1,0 +1,22 @@
+[
+  {
+    "title": "ps5",
+    "description": "un play",
+    "price": 500
+  },
+  {
+    "title": "xBox",
+    "description": "un xBox",
+    "price": 500
+  },
+  {
+    "title": "Nintendo Switch",
+    "description": "un nintendo",
+    "price": 300
+  },
+  {
+    "title": "un pc",
+    "description": "un computador",
+    "price": 5000
+  }
+]
